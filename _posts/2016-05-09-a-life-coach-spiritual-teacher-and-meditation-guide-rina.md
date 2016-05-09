@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-09T05:28:48.553Z'
-dateModified: '2016-05-09T05:28:46.409Z'
-title: '"I am the awareness of what I am"'
+description: '"I am the awareness of what I am"'
+datePublished: '2016-05-09T05:29:23.488Z'
+dateModified: '2016-05-09T05:29:09.293Z'
+title: Rina G. Singh
 author:
   - name: ''
     url: 'https://www.linkedin.com/in/rinagsingh'
