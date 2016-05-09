@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'A life coach, mindfulness teacher, and meditation guide, Rina G. Singh has developed her techniques through professional studies in coaching, energy healing, and mindfulness practices. For more than a decade, Rina has served people around the world, guiding in search for peace, joy, happiness, love, empowerment, and clarity. She is renowned for her personalized approach, designed to work with people regardless of their past experiences, spiritual practices, personality and lifestyle. Rina believes that the ultimate source of human potential is in the inner life source, connecting with the mind and body. Rina’s practice is unique in that it blends meditation, coaching and mindfulness training, leading her clients to a personalized and lasting transformation, mental clarity and emotional balance.'
-datePublished: '2016-05-09T05:24:38.298Z'
-dateModified: '2016-05-09T05:24:12.230Z'
+description: ''
+datePublished: '2016-05-09T05:28:48.553Z'
+dateModified: '2016-05-09T05:28:46.409Z'
 title: '"I am the awareness of what I am"'
 author:
   - name: ''
@@ -25,7 +25,11 @@ _type: Article
 ---
 ![Rina G. Singh](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bed85bda16c9beb360a0e2fe3516d038fc45867.jpg)
 
-A life coach, mindfulness teacher, and meditation guide, Rina G. Singh has developed her techniques through professional studies in coaching, energy healing, and mindfulness practices. For more than a decade, Rina has served people around the world, guiding in search for peace, joy, happiness, love, empowerment, and clarity. She is renowned for her personalized approach, designed to work with people regardless of their past experiences, spiritual practices, personality and lifestyle. Rina believes that the ultimate source of human potential is in the inner life source, connecting with the mind and body. Rina's practice is unique in that it blends meditation, coaching and mindfulness training, leading her clients to a personalized and lasting transformation, mental clarity and emotional balance.
+_**"I am the awareness of what I am"**_
+
+A life coach, mindfulness teacher, and meditation guide, [Rina G. Singh][0] has developed her techniques through professional studies in coaching, energy healing, and mindfulness practices. For more than a decade, Rina has served people around the world, guiding in search for peace, joy, happiness, love, empowerment, and clarity. She is renowned for her personalized approach, designed to work with people regardless of their past experiences, spiritual practices, personality and lifestyle. Rina believes that the ultimate source of human potential is in the inner life source, connecting with the mind and body. Rina's practice is unique in that it blends meditation, coaching and mindfulness training, leading her clients to a personalized and lasting transformation, mental clarity and emotional balance.
 
 Rina lives in Palo Alto, California. To schedule a private session, email: rinagsingh@gmail.com
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5efb17a9d0321c436ceecef729bcc46fb5af1d30.jpg)
+
+[0]: https://www.linkedin.com/in/rinagsingh
