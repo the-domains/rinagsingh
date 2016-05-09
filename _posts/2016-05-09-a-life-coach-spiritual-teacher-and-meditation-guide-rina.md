@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'A life coach, mindfulness teacher, and meditation guide, Rina G. Singh has developed her techniques through professional studies in coaching, energy healing, and mindfulness practices. For more than a decade, Rina has served people around the world, guiding in search for peace, joy, happiness, love, empowerment, and clarity. She is renowned for her personalized approach, designed to work with people regardless of their past experiences, spiritual practices, personality and lifestyle. Rina believes that the ultimate source of human potential is in the inner life source, connecting with the mind and body. Rina’s practice is unique in that it blends meditation, coaching and mindfulness training, leading her clients to a personalized and lasting transformation, mental clarity and emotional balance.'
-datePublished: '2016-05-09T05:14:26.646Z'
-dateModified: '2016-05-09T05:14:24.527Z'
+datePublished: '2016-05-09T05:19:55.407Z'
+dateModified: '2016-05-09T05:19:53.862Z'
 title: '"I am the awareness of what I am"'
 author:
   - name: ''
@@ -28,3 +28,4 @@ _type: Article
 A life coach, mindfulness teacher, and meditation guide, Rina G. Singh has developed her techniques through professional studies in coaching, energy healing, and mindfulness practices. For more than a decade, Rina has served people around the world, guiding in search for peace, joy, happiness, love, empowerment, and clarity. She is renowned for her personalized approach, designed to work with people regardless of their past experiences, spiritual practices, personality and lifestyle. Rina believes that the ultimate source of human potential is in the inner life source, connecting with the mind and body. Rina's practice is unique in that it blends meditation, coaching and mindfulness training, leading her clients to a personalized and lasting transformation, mental clarity and emotional balance.
 
 Rina lives in Palo Alto, California. To schedule a private session, email: rinagsingh@gmail.com
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ec840ab-a75b-4b94-9c58-a83377d5675e.jpg)
