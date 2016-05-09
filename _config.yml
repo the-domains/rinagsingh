@@ -1,6 +1,6 @@
 name: Rina G. Singh
 favicon: null
-layout_spectrum: 0.85416
+layout_spectrum: 0.72222
 typography_spectrum: 0.04687
 title: 'Life Coach & Mindfulness Teacher'
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#c4bcaf'
-    - '#bcdc2f'
-    - '#a7c950'
-    - '#e6d399'
+    - '#d2c8c6'
+    - '#211e1f'
+    - '#646464'
+    - '#b98071'
+    - '#9e4460'
   brandStrength: 0.75
   lightness: 1
   saturation: 0.1875
