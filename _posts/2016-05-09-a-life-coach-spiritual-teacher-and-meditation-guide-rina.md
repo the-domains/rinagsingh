@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'A life coach, mindfulness teacher, and meditation guide, Rina G. Singh has developed her techniques through professional studies in coaching, energy healing, and mindfulness practices. For more than a decade, Rina has served people around the world, guiding in search for peace, joy, happiness, love, empowerment, and clarity. She is renowned for her personalized approach, designed to work with people regardless of their past experiences, spiritual practices, personality and lifestyle. Rina believes that the ultimate source of human potential is in the inner life source, connecting with the mind and body. Rina’s practice blends meditation, coaching and energy healing techniques, leading her clients to deeper and lasting transformation, mental clarity and emotional balance. '
-datePublished: '2016-05-09T04:41:25.052Z'
-dateModified: '2016-05-09T04:41:22.466Z'
+datePublished: '2016-05-09T04:43:16.555Z'
+dateModified: '2016-05-09T04:43:14.915Z'
 title: ''
 author:
   - name: ''
@@ -27,4 +27,4 @@ _type: Article
 
 A life coach, mindfulness teacher, and meditation guide, Rina G. Singh has developed her techniques through professional studies in coaching, energy healing, and mindfulness practices. For more than a decade, Rina has served people around the world, guiding in search for peace, joy, happiness, love, empowerment, and clarity. She is renowned for her personalized approach, designed to work with people regardless of their past experiences, spiritual practices, personality and lifestyle. Rina believes that the ultimate source of human potential is in the inner life source, connecting with the mind and body. Rina's practice blends meditation, coaching and energy healing techniques, leading her clients to deeper and lasting transformation, mental clarity and emotional balance. 
 
-Rina lives in Palo Alto, California. To schedule a private session, email:ringsing@gmail.com
+Rina lives in Palo Alto, California. To schedule a private session, email: ringsing@gmail.com
