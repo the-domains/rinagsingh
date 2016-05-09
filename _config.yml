@@ -1,7 +1,7 @@
 name: RinaGSingh
 favicon: null
-layout_spectrum: 0.52343
-typography_spectrum: 1
+layout_spectrum: 0.25868
+typography_spectrum: 0.04687
 title: 'Life Coach & Mindfulness Teacher'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#bcdc2f'
     - '#a7c950'
     - '#e6d399'
-  brandStrength: 0
+  brandStrength: 0.75
   lightness: 1
-  saturation: 0.8125
+  saturation: 0
   rhythmicContrast: 0
 purpose: []
