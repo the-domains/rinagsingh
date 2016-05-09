@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-09T03:16:51.901Z'
-dateModified: '2016-05-09T03:16:12.796Z'
+datePublished: '2016-05-09T03:21:16.851Z'
+dateModified: '2016-05-09T03:21:02.096Z'
 title: 'Rina G. Singh - Life Coach, Mindfulness Teacher'
 author:
   - name: ''
