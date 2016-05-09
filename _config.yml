@@ -1,0 +1,28 @@
+name: RinaGSingh
+favicon: null
+layout_spectrum: 0.19659711117856205
+typography_spectrum: 0.6103049400262535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.592287580948323
+  lightness: 0.06926106032915413
+  saturation: 0.9143318384885788
+  rhythmicContrast: 0.24289620853960514
+purpose: []
