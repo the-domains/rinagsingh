@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '"I am the awareness of what I am"'
-datePublished: '2016-05-09T05:29:23.488Z'
-dateModified: '2016-05-09T05:29:09.293Z'
+datePublished: '2016-05-09T05:32:35.504Z'
+dateModified: '2016-05-09T05:32:34.284Z'
 title: Rina G. Singh
 author:
   - name: ''
@@ -30,6 +30,5 @@ _**"I am the awareness of what I am"**_
 A life coach, mindfulness teacher, and meditation guide, [Rina G. Singh][0] has developed her techniques through professional studies in coaching, energy healing, and mindfulness practices. For more than a decade, Rina has served people around the world, guiding in search for peace, joy, happiness, love, empowerment, and clarity. She is renowned for her personalized approach, designed to work with people regardless of their past experiences, spiritual practices, personality and lifestyle. Rina believes that the ultimate source of human potential is in the inner life source, connecting with the mind and body. Rina's practice is unique in that it blends meditation, coaching and mindfulness training, leading her clients to a personalized and lasting transformation, mental clarity and emotional balance.
 
 Rina lives in Palo Alto, California. To schedule a private session, email: rinagsingh@gmail.com
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5efb17a9d0321c436ceecef729bcc46fb5af1d30.jpg)
 
 [0]: https://www.linkedin.com/in/rinagsingh
